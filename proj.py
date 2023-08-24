@@ -1,5 +1,5 @@
-#inicio da atividade 3                                  # aluno : Cristian De Oliveira
-#função metragem_limpeza()                              # RU 4309585
+#inicio da atividade 3                                  #Programa para empresa de limpeza!
+#função metragem_limpeza()                              
 def metragem_limpeza(): # nome da funçao
   while True:       #inicio do laço da função
     print(40*'-'+'   '+'Menu 1 - 3 Metragem M²'+'   '+40*'-') # print do menu de escolhas
